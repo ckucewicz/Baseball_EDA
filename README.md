@@ -34,6 +34,8 @@ The following are keys steps I took to prepare the data for analysis:
 Three key findings from the analysis below:
 
 * Weight and height are nearly identically correlated with career home runs
+
+ ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/ckucewicz/Baseball_EDA/blob/main/Baseball_EDA_RegPlots.png)
   * The correlation coefficient value between height and homeruns (r = 0.527) shows a moderate, positive relationship, and the correlation coefficient value between weight and homeruns (r = 0.530) also shows a moderate, positive relationship.
   * In addition to using career homeruns to measure a player's batting power, I used home run rate, which is a rate that measures the number of home runs per at bat for each player. This measure showed a moderate, positive correlation with both player height and weight as well.
 
